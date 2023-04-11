@@ -5,14 +5,14 @@
   <img src="https://img.shields.io/github/stars/DevIagpo15?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Italo+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Iago Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Iago+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Iago Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
 
 
 ### Welcome to my GitHub! :grin:
    
-#### Hello, my name is Iago, I'm a student of Computer Science, currently i'm focused on developing my skills in programming. I am currently studying OOP (Object-Oriented Programming) with Java and C language.
+#### Hello, my name is Iago, I'm a student of Computer Science, currently i'm focused on developing my skills in programming. I am currently studying C and OOP (Object-Oriented Programming) with Java.
 
 ## Status:
 
