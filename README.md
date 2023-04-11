@@ -1,8 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Iago+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Iago Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
-
-
 ### Welcome to my GitHub! :grin:
    
 #### Hello, my name is Iago, I'm a student of Computer Science, currently i'm focused on developing my skills in programming. I am currently studying C and OOP (Object-Oriented Programming) with Java.
@@ -22,7 +20,6 @@
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
 
-[<img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=000000&logo=Instagram&logoColor=FFFFFF&label=">](https://www.instagram.com/italomauricio1/)
 <a href = "mailto:lagoaqlagoai@hotmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=000000&logo=Gmail&logoColor=FFFFFF&label=" target="_blank"></a>
 <a id="twitter" href="https://twitter.com/DetonaIago">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=000000&logo=Twitter&logoColor=FFFFFF&label="/>
@@ -37,32 +34,21 @@
 <table align="center">
 
   <tr>
-    <td align="center" width="96">
+   <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://commons.wikimedia.org/wiki/File:C_Logo.png#/media/File:C_Logo.png" alt="icon" width="65" height="65" />
       </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
+      <br>C
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>C#
+     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Java
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>Typescript
-    </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#git" >
