@@ -12,7 +12,7 @@
 <br> 
 
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=DevIagpo15&theme=dark&hide_border=false)|![italo-mauricio's Stats](https://github-readme-stats.vercel.app/api?username=DevIagpo15&theme=dark&show_icons=true&hide_border=true&count_private=true)
+|![](https://github-readme-streak-stats.herokuapp.com/?user=DevIagpo15&theme=dark&hide_border=false)|![italo-mauricio's Stats](https://github-readme-stats.vercel.app/api?username=DevIago15&theme=dark&show_icons=true&hide_border=true&count_private=true)
 |---|---|
 <br>
 
@@ -36,7 +36,7 @@
   <tr>
    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://commons.wikimedia.org/wiki/File:C_Logo.png#/media/File:C_Logo.png" alt="icon" width="65" height="65" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="icon" width="65" height="65" />
       </a>
       <br>C
      <td align="center" width="96">
