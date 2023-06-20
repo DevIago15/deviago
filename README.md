@@ -3,7 +3,7 @@
 
 ### Welcome to my GitHub! :grin:
    
-#### Hello, my name is Iago, I'm a student of Computer Science, currently i'm focused on developing my skills in programming. I am currently studying C and OOP (Object-Oriented Programming) with Java.
+#### Hello, my name is Iago, I'm a student of Computer Science, currently i'm focused on developing my skills in programming. I am currently studying C and OOP (Object-Oriented Programming) with Java and C#.
 
 ## Status:
 
