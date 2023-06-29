@@ -56,7 +56,7 @@
       </a>
       <br>Git
     </td>
-        <td align="center" width="96">
+        <td align="" width="96">
       <a href="#sql" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="48" height="48" alt="SQL" />
       </a>
