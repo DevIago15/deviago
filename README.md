@@ -52,10 +52,16 @@
     </td>
     <td align="center" width="96">
       <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        <img src="https://commons.wikimedia.org/wiki/Category:Structured_Query_Language#/media/File:SQL_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
+        <td align="center" width="96">
+      <a href="#sql" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="SQL" />
+      </a>
+      <br>SQL
+        </td>
     
 </tr>
 
