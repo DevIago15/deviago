@@ -36,9 +36,8 @@
   <tr>
    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="icon" width="40" height="45" alt="C" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="icon" width="40" height="45" />
       </a>
-      <br>
       <br>C
      <td align="center" width="96">
       <a href="#macropower-tech">
