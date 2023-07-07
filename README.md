@@ -59,7 +59,7 @@
     </td>
         <td align="center" width="96">
       <a href="#sql" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" height="40" alt="SQL" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="30" height="30" alt="SQL" />
       </a>
       <br>SQL
         </td>
