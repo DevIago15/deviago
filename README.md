@@ -35,7 +35,6 @@
 
   <tr>
    <td align="center" width="96">
-      <br>
       <a href="#macropower-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="icon" width="40" height="45" />
       </a>
@@ -58,9 +57,9 @@
       </a>
       <br>Git
     </td>
-        <td align="center" width="125">
+        <td align="center" width="96">
       <a href="#sql" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="48" height="48" alt="SQL" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" height="65" alt="SQL" />
       </a>
       <br>SQL
         </td>
