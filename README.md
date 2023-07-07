@@ -53,13 +53,13 @@
     </td>
     <td align="center" width="96">
       <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="40" height="40" alt="Git" />
       </a>
       <br>Git
     </td>
         <td align="center" width="96">
       <a href="#sql" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="35" height="40" alt="SQL" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" height="40" alt="SQL" />
       </a>
       <br>SQL
         </td>
