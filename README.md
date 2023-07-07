@@ -20,7 +20,7 @@
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
 
-<a href = "mailto:lagoaqlagoai@hotmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=000000&logo=Gmail&logoColor=FFFFFF&label=" target="_blank"></a>
+<a href = "mailto:dev_iago@hotmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=000000&logo=Gmail&logoColor=FFFFFF&label=" target="_blank"></a>
 <a id="twitter" href="https://twitter.com/DetonaIago">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=000000&logo=Twitter&logoColor=FFFFFF&label="/>
 </a>
@@ -40,6 +40,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="icon" width="40" height="45" />
       </a>
       <br>C
+   </td>
      <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
