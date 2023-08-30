@@ -15,7 +15,7 @@
 <br> 
 
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=deviago15&hide_border=false)|![deviago15's Stats](https://github-readme-stats.vercel.app/api?username=deviago15&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=deviago15&hide_border=false)![deviago15's Stats](https://github-readme-stats.vercel.app/api?username=deviago15&show_icons=true&hide_border=true&count_private=true)
 |---|---|
 <br>
 
