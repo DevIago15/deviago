@@ -2,7 +2,7 @@
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fitalo-mauricio"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fitalo-mauricio&label=Profile%20Views&labelColor=%23ffe4c8&countColor=%2386092c&style=flat" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Italo+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Italo Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Italo+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Iago Lucas Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
 
@@ -12,11 +12,11 @@
 
 ### Welcome to my GitHub! :grin:
    
-#### Hello, my name is Italo, I'm a student of information systems in Federal University of Rio Grande do Norte, currently i'm focused on developing my skills in programming. I am currently working with Java and PostGreSQL on Mertins Technology's.
+#### Hello, my name is Iago Lucas, I'm a student of Computer Sciences.
 
 ## Status:
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-mauricio&theme=moltack)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=moltack&utcOffset=-3)|
+|![][(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deviago15)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=moltack&utcOffset=-3)|](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deviago15&&utcOffset=-3)|)
 |---|---|
 <br> 
 
