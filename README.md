@@ -11,7 +11,7 @@
 
 ## Status:
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deviago15)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deviago15k&utcOffset=-3)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deviago15)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deviago15k&utcOffset=-3)| |---|---|
 <br> 
 
 
@@ -23,18 +23,13 @@
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
 
-[<img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/italomauricio1/)
-<a href = "mailto:italogithub@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:dev_iago@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a id="twitter" href="https://twitter.com/italozip">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
- <a id="linkedin" href="https://www.linkedin.com/in/italo-mauricio">
+ <a id="linkedin" href="https://www.linkedin.com/in/iago-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a id="coderank" href="https://profile.codersrank.io/user/italo-mauricio">
-   ![CodersRank](https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=67A4AC&logo=CodersRank&logoColor=FFFFFF&label=)
-</a>
-
 
 <h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
 
