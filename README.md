@@ -16,11 +16,13 @@
 <br> 
 
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=deviago15&hide_border=false)![](https://github-readme-stats.vercel.app/api?username=deviago15&show_icons=true&hide_border=true&count_private=true)|
+|![](http://github-readme-streak-stats.herokuapp.com/?user=deviago15&hide_border=false)|![](http://github-readme-stats.vercel.app/api?username=deviago15&show_icons=true&hide_border=true&count_private=true)|
 |---|---|
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deviago15)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deviago15)
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deviago15)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deviago15)
+|---|---|
+<br>
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
 
