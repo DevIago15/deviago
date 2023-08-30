@@ -20,7 +20,7 @@
 |---|---|
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo-mauricio&theme=moltack)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italo-mauricio&theme=moltack)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deviago15)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deviago15)
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
 
