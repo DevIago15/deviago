@@ -5,11 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Iago+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Iago Lucas Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
-
-<p align="center">
-  <img src="https://wakatime.com/badge/user/65d2f429-0fff-4030-bb0c-babf96b02db1.svg?style=social" alt="waka">
-</p>
-
 ### Welcome to my GitHub! :grin:
    
 #### Hello, my name is Iago Lucas, I'm a student of Computer Sciences.
