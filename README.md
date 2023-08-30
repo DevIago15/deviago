@@ -24,7 +24,7 @@
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
 
 <a href = "mailto:dev_iago@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a id="twitter" href="https://twitter.com/italozip">
+<a id="twitter" href="https://twitter.com/DetonaIago">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
  <a id="linkedin" href="https://www.linkedin.com/in/iago-dev">
