@@ -11,7 +11,7 @@
 
 ## Status:
 
-|![][(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deviago15)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-mauricio&theme=moltack&utcOffset=-3)|](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deviago15&&utcOffset=-3)|)
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deviago15)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deviago15k&utcOffset=-3)|]
 |---|---|
 <br> 
 
