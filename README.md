@@ -12,11 +12,10 @@
 ## Status:
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deviago15)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deviago15k&utcOffset=-3)|
-|---|---|
 <br> 
 
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=deviago15&hide_border=false)|![deviago15's Stats](https://github-readme-stats.vercel.app/api?username=deviago15&theme=moltack&show_icons=true&hide_border=true&count_private=true)
+|![](https://github-readme-streak-stats.herokuapp.com/?user=deviago15&hide_border=false)|![deviago15's Stats](https://github-readme-stats.vercel.app/api?username=deviago15&show_icons=true&hide_border=true&count_private=true)
 |---|---|
 <br>
 
