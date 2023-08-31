@@ -7,7 +7,7 @@
 
 ### Welcome to my GitHub! :grin:
    
-#### Hello, my name is Iago Lucas, I'm a student of Computer Sciences.
+#### Hello, my name is Iago Lucas, I'm a student of Computer Science.
 
 ## Status:
 
