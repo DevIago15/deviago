@@ -11,12 +11,12 @@
 
 ## Status:
 
-|![](https://github-readme-streak-stats.herokuapp.com?user=deviago15)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deviago15&utcOffset=-3)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deviago15)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deviago15&utcOffset=-3)|
 |---|---|
 <br> 
 
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=deviago15)|![iagodev's Stats](http://github-readme-stats.vercel.app/api?username=deviago15&show_icons=true&hide_border=true&count_private=true)|
+|![](https://github-readme-streak-stats.herokuapp.com?user=deviago15)|![iagodev's Stats](http://github-readme-stats.vercel.app/api?username=deviago15&show_icons=true&hide_border=true&count_private=true)|
 |---|---|
 <br>
 
