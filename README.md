@@ -20,7 +20,7 @@
 |---|---|
 <br>
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deviago15)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deviago15)
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deviago15)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deviago15)|
 |---|---|
 <br>
 
