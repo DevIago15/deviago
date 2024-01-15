@@ -86,4 +86,4 @@
 
 ## :snake: Activities :
 
-![Snake animation](https://github.com/DevIago15/DevIago15/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DevIago15/DevIago15/blob/output/github-contribution-grid-snake.svg)
